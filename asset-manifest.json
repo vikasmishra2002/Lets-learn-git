@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Lets-learn-git/static/css/main.391d490b.css",
+    "main.js": "/Lets-learn-git/static/js/main.bf0aca4f.js",
+    "static/media/hero-section@3x.png": "/Lets-learn-git/static/media/hero-section@3x.5d8680e7d0bd30e29d84.png",
+    "static/media/category@3x.png": "/Lets-learn-git/static/media/category@3x.bd2dc02f9cc8e56678dc.png",
+    "static/media/card-11@3x.png": "/Lets-learn-git/static/media/card-11@3x.e61f3e5fea6a42692db5.png",
+    "static/media/card-1@3x.png": "/Lets-learn-git/static/media/card-1@3x.ed6d8d08920b95dfbae2.png",
+    "index.html": "/Lets-learn-git/index.html",
+    "main.391d490b.css.map": "/Lets-learn-git/static/css/main.391d490b.css.map",
+    "main.bf0aca4f.js.map": "/Lets-learn-git/static/js/main.bf0aca4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.391d490b.css",
+    "static/js/main.bf0aca4f.js"
+  ]
+}
